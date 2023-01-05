@@ -99,14 +99,17 @@ button {
 .upload-image {
   margin-top: 1rem;
 }
-.column-flex{
+.column-flex {
   width: 48%;
   /* margin: 0 auto; */
   margin-left: 12%;
   margin-right: auto;
 }
-.sidebar{
-  position: fixed;top: 3rem;right: 10%;width: 440px;
+.sidebar {
+  position: fixed;
+  top: 3rem;
+  right: 10%;
+  width: 440px;
 }
 .app-flex {
   /* display: grid;
@@ -119,12 +122,13 @@ button {
 }
 .sidebar-questions {
   background: #ffffff;
-  height: 400px;overflow-y: hidden;
+  height: 400px;
+  overflow-y: hidden;
   border-radius: 13px;
   padding: 2rem 3rem;
   margin-top: 2rem;
 }
-.questions{
+.questions {
   overflow-y: scroll;
   height: 400px;
 }
@@ -207,8 +211,6 @@ button {
   width: 90%;
   margin: 0 auto;
 }
-.home-page {
-}
 .home-page-posts {
   background: #fff;
   padding: 2rem 2rem;
@@ -236,8 +238,8 @@ button {
 }
 .like-counts p {
   display: flex;
-  align-items: center;gap: 1rem
-  ;
+  align-items: center;
+  gap: 1rem;
   text-align: center;
   cursor: pointer;
   font-weight: 500;
@@ -281,11 +283,14 @@ button {
   opacity: 0.7;
 }
 
-.home-page{
+.home-page {
   /* overflow-y: auto; */
   /* height: 100vh; */
-  margin-top: 2rem;border-radius: 20px;
+  margin-top: 2rem;
+  border-radius: 20px;
 }
-.sidebar{
-  position: fixed;width: 460px;right: 10%;
+.sidebar {
+  position: fixed;
+  width: 460px;
+  right: 10%;
 }
